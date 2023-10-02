@@ -1,0 +1,28 @@
+c:\Users\Fesuoy\source\repos\password generator\C# edition\bin\Debug\net7.0\C# edition.exe
+c:\Users\Fesuoy\source\repos\password generator\C# edition\bin\Debug\net7.0\C# edition.deps.json
+c:\Users\Fesuoy\source\repos\password generator\C# edition\bin\Debug\net7.0\C# edition.runtimeconfig.json
+c:\Users\Fesuoy\source\repos\password generator\C# edition\bin\Debug\net7.0\C# edition.dll
+c:\Users\Fesuoy\source\repos\password generator\C# edition\bin\Debug\net7.0\C# edition.pdb
+c:\Users\Fesuoy\source\repos\password generator\C# edition\obj\Debug\net7.0\C# edition.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Fesuoy\source\repos\password generator\C# edition\obj\Debug\net7.0\C# edition.AssemblyInfoInputs.cache
+c:\Users\Fesuoy\source\repos\password generator\C# edition\obj\Debug\net7.0\C# edition.AssemblyInfo.cs
+c:\Users\Fesuoy\source\repos\password generator\C# edition\obj\Debug\net7.0\C# edition.csproj.CoreCompileInputs.cache
+c:\Users\Fesuoy\source\repos\password generator\C# edition\obj\Debug\net7.0\C# edition.dll
+c:\Users\Fesuoy\source\repos\password generator\C# edition\obj\Debug\net7.0\refint\C# edition.dll
+c:\Users\Fesuoy\source\repos\password generator\C# edition\obj\Debug\net7.0\C# edition.pdb
+c:\Users\Fesuoy\source\repos\password generator\C# edition\obj\Debug\net7.0\C# edition.genruntimeconfig.cache
+c:\Users\Fesuoy\source\repos\password generator\C# edition\obj\Debug\net7.0\ref\C# edition.dll
+C:\Users\Fesuoy\source\repos\password generator\password generrator C#\bin\Debug\net7.0\C# edition.exe
+C:\Users\Fesuoy\source\repos\password generator\password generrator C#\bin\Debug\net7.0\C# edition.deps.json
+C:\Users\Fesuoy\source\repos\password generator\password generrator C#\bin\Debug\net7.0\C# edition.runtimeconfig.json
+C:\Users\Fesuoy\source\repos\password generator\password generrator C#\bin\Debug\net7.0\C# edition.dll
+C:\Users\Fesuoy\source\repos\password generator\password generrator C#\bin\Debug\net7.0\C# edition.pdb
+C:\Users\Fesuoy\source\repos\password generator\password generrator C#\obj\Debug\net7.0\C# edition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fesuoy\source\repos\password generator\password generrator C#\obj\Debug\net7.0\C# edition.AssemblyInfoInputs.cache
+C:\Users\Fesuoy\source\repos\password generator\password generrator C#\obj\Debug\net7.0\C# edition.AssemblyInfo.cs
+C:\Users\Fesuoy\source\repos\password generator\password generrator C#\obj\Debug\net7.0\C# edition.csproj.CoreCompileInputs.cache
+C:\Users\Fesuoy\source\repos\password generator\password generrator C#\obj\Debug\net7.0\C# edition.dll
+C:\Users\Fesuoy\source\repos\password generator\password generrator C#\obj\Debug\net7.0\refint\C# edition.dll
+C:\Users\Fesuoy\source\repos\password generator\password generrator C#\obj\Debug\net7.0\C# edition.pdb
+C:\Users\Fesuoy\source\repos\password generator\password generrator C#\obj\Debug\net7.0\C# edition.genruntimeconfig.cache
+C:\Users\Fesuoy\source\repos\password generator\password generrator C#\obj\Debug\net7.0\ref\C# edition.dll
