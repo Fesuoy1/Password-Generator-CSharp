@@ -26,3 +26,7 @@ jobs:
       run: dotnet build --no-restore
     - name: Test
       run: dotnet test --no-build --verbosity normal
+    - name: Code Coverage
+      run: dotnet tool install --global coverlet.console
+    - name: Run Code Coverage
+      run: dotnet test --collect:"XPlat Code Coverage"
